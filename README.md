@@ -1,2 +1,2 @@
-# https-Frost_Bawl.github.io-digitech-pwa-
+# https-Frost_Bawl.github.digitech-pwa.com
 A transaction and daily app for transactions great for entrepreneurs 
